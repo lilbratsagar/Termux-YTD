@@ -1,5 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
+echo $1
 echo -e "\e[031m" "──────▄▀▄─────▄▀▄"
 echo -e "\e[031m" "─────▄█░░▀▀▀▀▀░░█▄"
 echo -e "\e[031m" "─▄▄──█░░░░░░░░░░░█──▄▄"
