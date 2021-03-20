@@ -4,8 +4,7 @@
 # Github: https://github.com/khansaad1275/Termux-YTD
 # Date : 14/4/2020
 
-echo -e "\e[035m"  "Updating default packages\n"
-apt update && apt upgrade -y
+
 
 echo -e "\e[032m" "Requesting acces to storage\n"
 sleep 2
